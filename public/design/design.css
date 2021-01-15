@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+	background-image: url(/image/line.gif);
+	background-size: cover;
+	width: 100%;
+
+}
+textarea
+{
+		font-size: 20px;
+        border-color: white;
+        border-radius: 5px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	
+}
+a:hover {
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+  color: indigo;
+  transform: scale(1.5);
+  box-shadow: 2px 2px 2px 2px;
+  z-index: 2;
+
+}
+.tagline {
+	font-size: 50px;
+	color: white;
+	font-family: Tahoma;
+}
+
+.contact
+{
+	margin-top:200px;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 25px;
+	color: white;
+
+}
+.profile
+{
+	margin-top: 50px;
+}
+#nav{
+		font-size: 25px;
+		text-align: center;
+		background-color: indigo;
+		height: 70px;
+		font-family: Tahoma;
+		font-weight: bold;
+
+	}
+footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: indigo;
+   color: white;
+   text-align: center;
+   font-family: Tahoma;
+}
+
+
+
+input{
+        font-size: 20px;
+        border-color: #D8D8D8;
+        border-radius: 5px;
+    }
+
+table{
+	background-color: red;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	border-radius: 15px;
+	border-color: transparent;
+	width: 30%;
+	height: 400px;
+	font-weight: bold;
+	font-family: Tahoma;
+	color: white;
+	
+	
+}
+b
+{
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+}
+label
+{
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 150px;
+	color: indigo;
+}
+
+p{
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 20px;
+	color: white;
+}
+.groupmember
+{
+	font-weight: bold;
+	font-family: Century Gothic;
+	font-size: 15px;
+	color: red;
+}
+
+button{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 100px;
+	height: 40px;
+}
